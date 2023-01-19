@@ -28,7 +28,7 @@ mv flux /usr/bin
 ## Clone Repo to run below commands
 
 ```bash
-git clone https://github.com/Naresh240/terraform_eks_flux_sync_with_helm.git
+git clone https://github.com/cloudtechmasters/terraform_eks_flux_sync_with_helm.git
 cd terraform_eks_flux_sync_with_helm
 ```
 
